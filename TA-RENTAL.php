@@ -1,3 +1,8 @@
 <?php
-coba
+<?php
+class rental{
+  public $jenisMobil;
+         $durasi;
+         $harga;
+}
 ?>
